@@ -1,4 +1,4 @@
-# Visor de peñas flamencas
+# Visor de bienes patrimoniales
 
 Se trata de un visor geográfico con la librería Leaflet que muestra los bienes patrimoniales (BIC y CG) que
 existen dentro del casco histórico de Jerez de la Frontera.
